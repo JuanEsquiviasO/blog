@@ -22,11 +22,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: 'Recientes'
+  previous_page: 'Anteriores'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: '¡Sientete libre para compartir!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'También puedes leer:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Escrito el'
