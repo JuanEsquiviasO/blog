@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Welcome to Lagrange!"
-author: "Juan Esquivias"
-categories: SEO
+author: "Paul Le"
+categories: journal
 tags: [documentation,sample]
 image: mountains.jpg
 ---
