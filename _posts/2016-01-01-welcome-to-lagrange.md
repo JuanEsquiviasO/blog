@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to Lagrange!"
 author: "Juan Esquivias"
-categories: journal
+categories: ux
 tags: [documentation,sample]
 image: mountains.jpg
 ---

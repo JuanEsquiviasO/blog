@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Started"
 author: "Juan Esquivias"
-categories: journal
+categories: news
 tags: [documentation,sample]
 image: forest.jpg
 ---

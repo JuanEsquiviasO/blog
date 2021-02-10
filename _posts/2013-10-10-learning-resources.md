@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Resources"
 author: "Juan Esquivias"
-categories: journal
+categories: education
 tags: [documentation,sample]
 image: spools.jpg
 ---
