@@ -2,7 +2,7 @@
 layout: post
 title: "About the Author"
 author: "Juan Esquivias"
-categories: personal
+categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---

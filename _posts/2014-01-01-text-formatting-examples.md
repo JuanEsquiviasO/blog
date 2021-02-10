@@ -2,7 +2,7 @@
 layout: post
 title: "Text Formatting Examples"
 author: "Juan Esquivias"
-categories: markup
+categories: journal
 tags: [documentation,sample]
 image: cards.jpg
 ---
