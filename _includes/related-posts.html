@@ -10,7 +10,8 @@
             <h3>
               <a href="{{ site.github.url }}{{ mypost.url }}">
                 {{ mypost.title }}
-                <img src="{{ site.url }}{{ site.baseurl }}/img/{{ mypost.image.teaser }}">
+                <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ mypost.image.teaser }}">
+                <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/{{ mypost.image.teaser }}"> -->                
                 <!-- <small>{{ mypost.date | date: "%B %-d, %Y" }}</small> -->
               </a>
             </h3>
@@ -21,3 +22,8 @@
     {% endfor %}
   </ul>
 </div>
+
+
+
+
+<!-- <img src="{{ site.github.url }}/assets/img/{{ page.image }}"> -->
