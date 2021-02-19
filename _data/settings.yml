@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'https-juanesquiviaso-github-io-blog'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-112060364-1'
+google-ID: 'G-RSC2YRFBR1'
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
@@ -25,7 +25,7 @@ pagination:
   next_page: 'Recientes'
   previous_page: 'Anteriores'
 
-sharing_button_prompt: '¡Sientete libre para compartir!'
+sharing_button_prompt: '¡Siéntete libre para compartir!'
 
 related_posts: 'También puedes leer:'
 
