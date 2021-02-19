@@ -13,6 +13,8 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
+
+- {icon: 'home', link: 'https://juanesquiviaso.github.io'}
 - {icon: 'github', link: 'https://github.com/JuanEsquiviasO'}
 - {icon: 'twitter', link: 'https://twitter.com/JuanEsquiviasO'}
 - {icon: 'linkedin', link: 'https://pe.linkedin.com/in/juanesquivias'}
