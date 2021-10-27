@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: 'https-juanesquiviaso-github-io-blog'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'G-RSC2YRFBR1'
+google-ID: 'G-5H6TQMWC6J'
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
