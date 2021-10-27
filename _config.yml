@@ -27,3 +27,6 @@ author:              'Juan Esquivias'
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
+
+# Google Analytics
+google_analytics: G-5H6TQMWC6J
