@@ -1,6 +1,6 @@
 ---
 layout: post
-title: " "
+title: "SEO - Marketing Digital "
 author: "Juan Esquivias"
 categories: journal
 tags: [documentation,sample]
