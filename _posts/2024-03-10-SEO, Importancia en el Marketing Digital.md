@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "SEO, Importancia en el Marketing Digital."
+title: " "
 author: "Juan Esquivias"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
 ---
 
-# Deslúmbrate con el Poder del SEO en el Marketing Digital
+# SEO y su importancia en el Marketing Digital
 
 El SEO (Search Engine Optimization) es una herramienta imprescindible en el arsenal de cualquier experto en marketing digital. En este post, exploraremos qué es el SEO, cómo funciona, por qué es vital, cómo se aplica y las especialidades que ofrece en el mercado laboral, así como las estrategias comunes para su aplicación efectiva.
 
