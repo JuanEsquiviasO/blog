@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "SEO clave en Marketing Digital"
+title: "SEO y Marketing Digital"
 author: "Juan Esquivias"
 categories: SEO
 tags: [SEO,Marketing Digital]
