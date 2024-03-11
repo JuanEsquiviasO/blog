@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "SEO - Marketing Digital "
+title: "SEO clave en Marketing Digital"
 author: "Juan Esquivias"
-categories: journal
-tags: [documentation,sample]
-image: cutting.jpg
+categories: SEO
+tags: [SEO,Marketing Digital]
+image: posicionamiento-web.jpg
 ---
 
 # SEO y su importancia en el Marketing Digital
