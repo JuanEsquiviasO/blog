@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "seo como estrategia en el marketing digital"
+title: "SEO como estrategia en marketing digital"
 author: "Juan Esquivias"
 categories: SEO
 tags: [SEO,Marketing Digital]
