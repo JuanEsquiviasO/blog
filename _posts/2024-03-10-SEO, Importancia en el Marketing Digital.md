@@ -7,7 +7,7 @@ tags: [SEO,Marketing Digital]
 image: posicionamiento-web.jpg
 ---
 
-# SEO y su importancia en el Marketing Digital
+# SEO clave en el Marketing Digital
 
 El SEO (Search Engine Optimization) es una herramienta imprescindible en el arsenal de cualquier experto en marketing digital. En este post, exploraremos qué es el SEO, cómo funciona, por qué es vital, cómo se aplica y las especialidades que ofrece en el mercado laboral, así como las estrategias comunes para su aplicación efectiva.
 
