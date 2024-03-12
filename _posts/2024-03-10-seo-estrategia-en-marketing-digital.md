@@ -83,7 +83,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-<a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="1" /></a>
+<a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="2" /></a>
 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
