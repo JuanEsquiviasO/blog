@@ -74,16 +74,4 @@ Existen numerosas herramientas útiles para el SEO, como Google Analytics, Googl
 No, el SEO es beneficioso para empresas de todos los tamaños. Desde pequeñas startups hasta grandes corporaciones, todas pueden beneficiarse de una estrategia de SEO bien diseñada para mejorar su visibilidad en línea y atraer a su público objetivo.
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-
-
-
-<a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="5" />VIDEO</a>
-
-
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+<a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="5" />Video: ¿Qué es el SEO?</a>
