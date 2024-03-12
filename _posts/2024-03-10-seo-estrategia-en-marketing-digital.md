@@ -80,11 +80,7 @@ No, el SEO es beneficioso para empresas de todos los tamaños. Desde pequeñas s
 <iframe width="560" height="315" src="https://youtu.be/R-XxAk8-OXY" frameborder="0" allowfullscreen></iframe> -->
 
 <div class="page">
-  <h1 class="page-title">404: Página no encontrada</h1>
+  <h2 class="page-title">Video</h2>
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/SIaFtAKnqBU?autoplay=1&start=3" frameborder="0" allowfullscreen></iframe>
-
-  <h2>No te desanimes, e intentalo de nuevo.</h2>
-
-  <p class="lead">Lo sentimos, hemos perdido esa URL o redirecciona a algo que no existe. <a href="{{ site.baseurl }}/">Vuelve al inicio</a> para intentar encontrar lo que buscas de nuevo, o búscalo en la <a href="{{ site.baseurl }}/menu/writing.html">página de archivos.</a>.</p>
 </div>
