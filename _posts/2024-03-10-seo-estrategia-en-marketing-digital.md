@@ -12,7 +12,7 @@ image: posicionamiento-web.jpg
 El SEO (Search Engine Optimization) es una herramienta imprescindible en el arsenal de cualquier experto en marketing digital. En este post, exploraremos qué es el SEO, cómo funciona, por qué es vital, cómo se aplica y las especialidades que ofrece en el mercado laboral, así como las estrategias comunes para su aplicación efectiva.
 
 ## ¿Qué es el SEO?
-El SEO es el arte y la ciencia de optimizar un sitio web para mejorar su visibilidad en los motores de búsqueda como Google, Bing y Yahoo. Consiste en un conjunto de técnicas que permiten que un sitio web aparezca en los primeros resultados de búsqueda de forma orgánica.
+El SEO es el arte y la ciencia de optimizar un sitio web para mejorar su visibilidad en los motores de búsqueda como [Google](https://www.google.com), Bing y Yahoo. Consiste en un conjunto de técnicas que permiten que un sitio web aparezca en los primeros resultados de búsqueda de forma orgánica.
 
 ## ¿Cómo funciona el SEO?
 El SEO funciona mediante la optimización de diversos aspectos de un sitio web, como la estructura del contenido, las palabras clave, los enlaces entrantes y salientes, la velocidad de carga y la experiencia del usuario. Los motores de búsqueda utilizan algoritmos complejos para clasificar y mostrar los resultados más relevantes para una consulta dada.
