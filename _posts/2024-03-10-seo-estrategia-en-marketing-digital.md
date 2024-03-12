@@ -73,8 +73,18 @@ Existen numerosas herramientas útiles para el SEO, como Google Analytics, Googl
 * **_¿El SEO es una estrategia exclusiva para grandes empresas?_**
 No, el SEO es beneficioso para empresas de todos los tamaños. Desde pequeñas startups hasta grandes corporaciones, todas pueden beneficiarse de una estrategia de SEO bien diseñada para mejorar su visibilidad en línea y atraer a su público objetivo.
 
-### Video
+<!-- ### Video -->
 
-<a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="5" /></a>
+<!-- <a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="5" /></a>
 
-<iframe width="560" height="315" src="https://youtu.be/R-XxAk8-OXY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/R-XxAk8-OXY" frameborder="0" allowfullscreen></iframe> -->
+
+<div class="page">
+  <h1 class="page-title">404: Página no encontrada</h1>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/SIaFtAKnqBU?autoplay=1&start=3" frameborder="0" allowfullscreen></iframe>
+
+  <h2>No te desanimes, e intentalo de nuevo.</h2>
+
+  <p class="lead">Lo sentimos, hemos perdido esa URL o redirecciona a algo que no existe. <a href="{{ site.baseurl }}/">Vuelve al inicio</a> para intentar encontrar lo que buscas de nuevo, o búscalo en la <a href="{{ site.baseurl }}/menu/writing.html">página de archivos.</a>.</p>
+</div>
