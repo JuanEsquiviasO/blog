@@ -73,5 +73,6 @@ Existen numerosas herramientas útiles para el SEO, como Google Analytics, Googl
 * **_¿El SEO es una estrategia exclusiva para grandes empresas?_**
 No, el SEO es beneficioso para empresas de todos los tamaños. Desde pequeñas startups hasta grandes corporaciones, todas pueden beneficiarse de una estrategia de SEO bien diseñada para mejorar su visibilidad en línea y atraer a su público objetivo.
 
+### Video
 
-<a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="5" />Video: ¿Qué es el SEO?</a>
+<a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="5" /></a>
