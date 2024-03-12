@@ -82,5 +82,5 @@ No, el SEO es beneficioso para empresas de todos los tamaños. Desde pequeñas s
 <div class="page">
   <h2 class="page-title">Video</h2>
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/R-XxAk8-OXY?si=mhtkWwYe20TRCqB8" frameborder="0" allowfullscreen></iframe>
+  <iframe width="480" height="360" src="https://www.youtube.com/embed/R-XxAk8-OXY?si=mhtkWwYe20TRCqB8" frameborder="0" allowfullscreen></iframe>
 </div>
