@@ -75,6 +75,8 @@ No, el SEO es beneficioso para empresas de todos los tamaños. Desde pequeñas s
 
 ### Video
 
+{% comment %} 
 <a href="https://youtu.be/R-XxAk8-OXY" target="_blank"><img src="../assets/img/concepto-seo.jpg" alt="video sobre concepto de SEO" width="480" height="360" border="5" /></a>
+{% endcomment %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SIaFtAKnqBU?autoplay=1&start=3" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/R-XxAk8-OXY" frameborder="0" allowfullscreen></iframe>
