@@ -14,23 +14,26 @@ La métrica Interacción con Next Paint (INP) ahora está incluida en el informe
 ## Comprendiendo los elementos vitales web básicos: 
 Core Web Vitals es un conjunto de métricas centradas en el usuario que cuantifican el rendimiento de su sitio web. Este servicio, introducido por Google, tiene como objetivo medir aspectos de la experiencia de un sitio web, como el tiempo de carga, la interactividad y la estabilidad visual. Las tres métricas clave que componen Core Web Vitals son:
 
-### Largest Contentful Paint (LCP): esta métrica mide el rendimiento de carga y marca el punto en la línea de tiempo de carga de la página donde el contenido principal se considera cargado. Para brindar una buena experiencia de usuario, LCP debe realizarse dentro de los 2,5 segundos posteriores a que la página comience a cargarse.
+### **_Largest Contentful Paint (LCP):_**
+esta métrica mide el rendimiento de carga y marca el punto en la línea de tiempo de carga de la página donde el contenido principal se considera cargado. Para brindar una buena experiencia de usuario, LCP debe realizarse dentro de los 2,5 segundos posteriores a que la página comience a cargarse.
 
-### First Input Delay (FID): FID mide la interactividad y cuantifica la capacidad de respuesta de un sitio web. Evalúe el tiempo desde la primera interacción de un usuario con una página (como hacer clic en un enlace o tocar un botón) hasta que el navegador esté listo para responder a esa interacción. El FID óptimo debe ser inferior a 100 ms para garantizar una experiencia de usuario fluida.
+### **_First Input Delay (FID):_**
+FID mide la interactividad y cuantifica la capacidad de respuesta de un sitio web. Evalúe el tiempo desde la primera interacción de un usuario con una página (como hacer clic en un enlace o tocar un botón) hasta que el navegador esté listo para responder a esa interacción. El FID óptimo debe ser inferior a 100 ms para garantizar una experiencia de usuario fluida.
 
-### Cumulative Layout Shift (CLS): CLS cuantifica la estabilidad visual y mide el alcance de los cambios de diseño inesperados en el contenido de la página mostrada. Es importante mantener una puntuación CLS baja (menos de 0,1) para evitar que los elementos se muevan inesperadamente, lo que puede provocar frustración en el usuario.
+### **_Cumulative Layout Shift (CLS):_**
+CLS cuantifica la estabilidad visual y mide el alcance de los cambios de diseño inesperados en el contenido de la página mostrada. Es importante mantener una puntuación CLS baja (menos de 0,1) para evitar que los elementos se muevan inesperadamente, lo que puede provocar frustración en el usuario.
 
 ## Importancia de Google Search Console:
 
 Google Search Console es una herramienta gratuita de Google que ayuda a los propietarios de sitios web a monitorear, mantener y solucionar problemas de la presencia de su sitio web en los resultados de búsqueda de Google. Proporciona una gran cantidad de información y funciones para optimizar el rendimiento de su sitio web, que incluyen:
 
-*Informes de rendimiento: estos informes brindan información valiosa sobre el rendimiento de su sitio web en los resultados de búsqueda de Google. Analice los clics, las impresiones, las tasas de clics y la posición promedio para consultas de búsqueda, páginas, países y dispositivos específicos.
+* Informes de rendimiento: estos informes brindan información valiosa sobre el rendimiento de su sitio web en los resultados de búsqueda de Google. Analice los clics, las impresiones, las tasas de clics y la posición promedio para consultas de búsqueda, páginas, países y dispositivos específicos.
 
-*Informe de cobertura de índice: esta función le ayuda a identificar y resolver problemas que impiden que Google indexe correctamente el contenido de su sitio. Proporciona detalles sobre errores de indexación, advertencias y páginas válidas para ayudar a que su contenido sea accesible para los motores de búsqueda.
+* Informe de cobertura de índice: esta función le ayuda a identificar y resolver problemas que impiden que Google indexe correctamente el contenido de su sitio. Proporciona detalles sobre errores de indexación, advertencias y páginas válidas para ayudar a que su contenido sea accesible para los motores de búsqueda.
 
-*Herramienta de inspección de URL:  esta herramienta le permite inspeccionar URL específicas en su sitio web para ver cómo Google las rastrea e indexa. Proporciona información sobre el estado de indexación, errores de rastreo y sugerencias de mejora.
+* Herramienta de inspección de URL:  esta herramienta le permite inspeccionar URL específicas en su sitio web para ver cómo Google las rastrea e indexa. Proporciona información sobre el estado de indexación, errores de rastreo y sugerencias de mejora.
 
-*Envío un mapa del sitio: Google Search Console le permite enviar un mapa del sitio XML. Esto permite a Google descubrir e indexar de manera más eficiente las páginas de su sitio. Un mapa del sitio proporciona una forma estructurada de comunicar la organización y jerarquía del contenido de su sitio web a los motores de búsqueda.
+* Envío un mapa del sitio: Google Search Console le permite enviar un mapa del sitio XML. Esto permite a Google descubrir e indexar de manera más eficiente las páginas de su sitio. Un mapa del sitio proporciona una forma estructurada de comunicar la organización y jerarquía del contenido de su sitio web a los motores de búsqueda.
 
 ## La Métrica del INP:
 
@@ -48,7 +51,7 @@ En una actualización reciente, Google introdujo la métrica INP como parámetro
 
 ## Conclusiones:
 
-*En un panorama dinámico de optimización SEO, mantenerse al tanto de las nuevas tendencias y métricas es fundamental para mantener la visibilidad en línea y la participación de los usuarios. Las Core Web Vitals, Google Search Console e INP representan componentes clave de una estrategia de SEO moderna y brindan información y herramientas valiosas para optimizar el rendimiento de su sitio web.
+* En un panorama dinámico de optimización SEO, mantenerse al tanto de las nuevas tendencias y métricas es fundamental para mantener la visibilidad en línea y la participación de los usuarios. Las Core Web Vitals, Google Search Console e INP representan componentes clave de una estrategia de SEO moderna y brindan información y herramientas valiosas para optimizar el rendimiento de su sitio web.
 
 * Al comprender y utilizar estos conceptos de manera efectiva, los propietarios de sitios web y los profesionales de SEO pueden mejorar la experiencia del usuario, mejorar las clasificaciones de búsqueda y, en última instancia, aumentar el tráfico orgánico a sus sitios web, aprovechar las *Core Web Vitals, el poder de Google Search Console y la optimización de la métrica INP para ayudar a que su sitio web tenga éxito en el ecosistema digital en constante evolución.
 
