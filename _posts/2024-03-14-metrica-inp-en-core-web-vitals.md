@@ -70,7 +70,7 @@ En una actualización reciente, Google introdujo la métrica INP como parámetro
 Este cambio resalta la necesidad de que los desarrolladores web y los profesionales de SEO adapten sus estrategias de optimización para alinearse con los cambiantes estándares de experiencia del usuario de Google y prioricen INP.
 
 <div class="page">
-  <h2 class="page-title">Video</h2>
+  <h2 class="page-title">Video: How to optimize web responsiveness with Interaction to Next Paint</h2>
 
   <iframe width="290" height="180" src="https://www.youtube.com/embed/KZ1kxzsJZ5g?si=hR_6lTONiUswDObc" title="YouTube video: How to optimize web responsiveness with Interaction to Next Paint" frameborder="0" allowfullscreen></iframe>
 </div>
