@@ -37,6 +37,8 @@ Google Search Console es una herramienta gratuita de Google que ayuda a los prop
 
 ## La Métrica del INP:
 
+![alt text](https://developers.google.com/static/search/blog/images/introducing-inp/inp-timeline.png "La métrica INP pasó de ser una métrica experimental en mayo de 2022 a convertirse en una métrica estable como parte de Core Web Vitals en mayo de 2024.")
+
 En una actualización reciente, Google introdujo la métrica INP como parámetro adicional para evaluar el rendimiento de las páginas web. Las métricas INP se centran en medir la capacidad de respuesta de una página web a la entrada del usuario, especialmente en dispositivos con interfaces táctiles. Complementa los Core Web Vitals existentes al enfatizar la importancia de brindar una experiencia de navegación fluida e interactiva.
 
 * La métrica INP ahora se incluye en el informe Core Web Vitals de Google Search Console y ahora se puede evaluar el rendimiento de INP mediante los informes de Search Console.
