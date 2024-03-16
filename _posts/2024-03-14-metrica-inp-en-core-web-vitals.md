@@ -23,7 +23,7 @@ FID mide la interactividad y cuantifica la capacidad de respuesta de un sitio we
 ### **_Cumulative Layout Shift (CLS):_**
 CLS cuantifica la estabilidad visual y mide el alcance de los cambios de diseño inesperados en el contenido de la página mostrada. Es importante mantener una puntuación CLS baja (menos de 0,1) para evitar que los elementos se muevan inesperadamente, lo que puede provocar frustración en el usuario.
 
-A continuación, se muestran los rangos de rendimiento para cada estado; observe que el rango de INP indica que para ser marcado como "bueno" debe ser inferior a 200 ms.
+*** A continuación, se muestran los rangos de rendimiento para cada estado; observe que el rango de INP indica que para ser marcado como "bueno" debe ser inferior a 200 ms. ***
 
 ![alt text](https://searchengineland.com/wp-content/seloads/2023/06/cwv-ranges-800x539.png.webp "Rangos de rendimiento para cada estado; observe que el rango de INP indica que para ser marcado como "bueno" debe ser inferior a 200 ms.")
 
