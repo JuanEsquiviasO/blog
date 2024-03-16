@@ -11,7 +11,7 @@ En el mundo de la optimización de motores de búsqueda (SEO), mantenerse actual
 Además, Google Search Console sirve como una herramienta valiosa para que los propietarios de sitios web y los profesionales de SEO supervisen y optimicen el rendimiento de sus sitios web en los resultados de búsqueda de Google. Esta publicación explica el concepto de Core Web Vitals, la importancia de Google Search Console y la creciente relevancia de las métricas INP para optimizar el rendimiento del sitio web. 
 La métrica Interacción con Next Paint (INP) ahora está incluida en el informe Core Web Vitals de Google Search Console, por lo que ahora puedes utilizar los informes de Search Console para evaluar el rendimiento de INP y optimizar tu sitio en consecuencia.
 
-## Comprendiendo los elementos vitales web básicos: 
+## Comprendiendo los Core Web Vitals:
 Core Web Vitals es un conjunto de métricas centradas en el usuario que cuantifican el rendimiento de su sitio web. Este servicio, introducido por Google, tiene como objetivo medir aspectos de la experiencia de un sitio web, como el tiempo de carga, la interactividad y la estabilidad visual. Las tres métricas clave que componen Core Web Vitals son:
 
 ### **_Largest Contentful Paint (LCP):_**
