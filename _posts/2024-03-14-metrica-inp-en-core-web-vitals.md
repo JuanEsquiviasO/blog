@@ -23,6 +23,10 @@ FID mide la interactividad y cuantifica la capacidad de respuesta de un sitio we
 ### **_Cumulative Layout Shift (CLS):_**
 CLS cuantifica la estabilidad visual y mide el alcance de los cambios de diseño inesperados en el contenido de la página mostrada. Es importante mantener una puntuación CLS baja (menos de 0,1) para evitar que los elementos se muevan inesperadamente, lo que puede provocar frustración en el usuario.
 
+A continuación, se muestran los rangos de rendimiento para cada estado; observe que el rango de INP indica que para ser marcado como "bueno" debe ser inferior a 200 ms.
+
+![alt text](https://searchengineland.com/wp-content/seloads/2023/06/cwv-ranges-800x539.png.webp "Rangos de rendimiento para cada estado; observe que el rango de INP indica que para ser marcado como "bueno" debe ser inferior a 200 ms.")
+
 ## Importancia de Google Search Console:
 
 Google Search Console es una herramienta gratuita de Google que ayuda a los propietarios de sitios web a monitorear, mantener y solucionar problemas de la presencia de su sitio web en los resultados de búsqueda de Google. Proporciona una gran cantidad de información y funciones para optimizar el rendimiento de su sitio web, que incluyen:
@@ -35,7 +39,7 @@ Google Search Console es una herramienta gratuita de Google que ayuda a los prop
 
 * Envío un mapa del sitio: Google Search Console le permite enviar un mapa del sitio XML. Esto permite a Google descubrir e indexar de manera más eficiente las páginas de su sitio. Un mapa del sitio proporciona una forma estructurada de comunicar la organización y jerarquía del contenido de su sitio web a los motores de búsqueda.
 
-## La Métrica del INP:
+## La Métrica INP:
 
 ![alt text](https://developers.google.com/static/search/blog/images/introducing-inp/inp-timeline.png "La métrica INP pasó de ser una métrica experimental en mayo de 2022 a convertirse en una métrica estable como parte de Core Web Vitals en mayo de 2024.")
 
