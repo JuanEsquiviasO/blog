@@ -28,12 +28,12 @@ resultados excelentes para la organización. La planificación,
 investigación, coordinación y reflexión en equipo son
 fundamentales.
 
-    -   Al sumar diferentes especialidades, conocimientos, habilidades
+Al sumar diferentes especialidades, conocimientos, habilidades
         de todo el equipo participante en un proyecto SEO como el área
         de desarrollo, contenidos y diseño se maximiza el éxito de un
         proyecto SEO.
 
-    -   Una de las tareas del experto SEO es el de ser el pilar para que
+Una de las tareas del experto SEO es el de ser el pilar para que
         esta sinergia entre expertos de las áreas implicadas en un
         proyecto SEO se ejecute logrando objetivos y metas propuestos en
         el menor tiempo.
