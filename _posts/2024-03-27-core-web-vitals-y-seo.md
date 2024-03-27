@@ -22,6 +22,8 @@ Las Core Web Vitals son un conjunto de métricas definidas por Google que miden 
 
 3. **Cumulative Layout Shift (CLS)**: Mide la estabilidad visual de una página, evaluando cuánto se mueven los elementos mientras se carga el contenido. Un buen CLS debe ser inferior a 0.1.
 
+4. **Interacción con Next Paint (INP)**: Mide la capacidad de respuesta de una página web a la entrada del usuario, especialmente en dispositivos con interfaces táctiles. El 12 de marzo, INP reemplazó la métrica FID en Core Web Vitals, esto complementa los Core Web Vitals existentes al enfatizar la importancia de brindar una experiencia de navegación fluida e interactiva y así poder la experiencia de usuario.
+
 Google ha dejado en claro que las Core Web Vitals son un factor de ranking importante para el SEO, lo que significa que los sitios web que brindan una excelente experiencia de usuario tendrán una mejor posición en los resultados de búsqueda.
 
 ## El Impacto de las Core Web Vitals en el SEO
