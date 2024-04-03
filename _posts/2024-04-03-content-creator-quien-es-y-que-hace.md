@@ -6,7 +6,7 @@ categories: SEO
 tags: [SEO,Marketing Digital, Marketing Contenidos]
 image: content-creation.jpg
 ---
-# Content Creation y content creator: ¿quién es y que hace?
+# Content Creation y content creator: ¿Quién es y Qué hace?
 
 ## La importancia del content creator en la era digital
 
