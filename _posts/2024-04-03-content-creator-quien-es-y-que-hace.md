@@ -4,7 +4,7 @@ title: "Content Creation y la figura del Content creator"
 author: "Juan Esquivias"
 categories: SEO
 tags: [SEO,Marketing Digital, Marketing Contenidos]
-image: boost-servicios-marketing-digital.png
+image: content-creation.jpg
 ---
 # Content Creation y content creator: ¿quién es y que hace?
 
