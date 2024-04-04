@@ -65,6 +65,7 @@ Las técnicas de SEO incluyen:
 3. **Construcción de enlaces:** Obtener enlaces de alta calidad desde otros sitios web respetables y relevantes.
 4. **Optimización local:** Optimizar el sitio web para búsquedas locales si el negocio tiene una presencia física.
 5. **Optimización móvil:** Garantizar que el sitio web sea completamente responsive y funcione bien en dispositivos móviles.
+
 ## Conclusión
 Un sólido enfoque en el SEO no solo aumenta el tráfico orgánico, sino que también brinda credibilidad y confianza a los usuarios, lo que puede resultar en una mayor conversión de visitantes en clientes o suscriptores.
 
