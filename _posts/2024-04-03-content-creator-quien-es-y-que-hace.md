@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Content Creation y la figura del Content creator"
+title: "Content creator y SEO"
 author: "Juan Esquivias"
 categories: SEO
 tags: [SEO,Marketing Digital, Marketing Contenidos]
 image: content-creation.jpg
 ---
-# Content Creation y content creator: ¿Quién es y Qué hace?
+# Content Creator y Content Creation y su relación con el SEO.
 
 ## La importancia del content creator en la era digital
 
