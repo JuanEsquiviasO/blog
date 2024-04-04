@@ -6,7 +6,7 @@ categories: SEO
 tags: [SEO,Marketing Digital, Marketing Contenidos]
 image: content-creation.jpg
 ---
-# Content Creator y Content Creation y su relación con el SEO.
+# Content Creator y su relación con el SEO.
 
 ## La importancia del content creator en la era digital
 
