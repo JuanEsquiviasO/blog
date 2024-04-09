@@ -4,7 +4,7 @@ title: "Bajar el peso de imágenes, prioridad en SEO"
 author: "Juan Esquivias"
 categories: SEO
 tags: [SEO,Marketing Digital,SEO Técnico]
-image: optimizar-imágenes-seo.png
+image: optimizar-imagenes-seo.png
 ---
 # La Importancia de Optimizar o bajar el Peso de las Imágenes para el SEO
 
